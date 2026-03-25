@@ -1,11 +1,8 @@
 # 🦖 404 Error Page
 
-![Preview](your-image-link-here)
+![Preview]<img width="1185" height="734" alt="Screenshot 2026-03-25 160105" src="https://github.com/user-attachments/assets/619df2bf-3187-4223-8695-ac6280a17372" />
 
-A creative and animated 404 error page...
-<img width="1185" height="734" alt="Screenshot 2026-03-25 160105" src="https://github.com/user-attachments/assets/619df2bf-3187-4223-8695-ac6280a17372" />
-
-A creative and animated 404 error page designed using modern tools and visual storytelling.
+A creative and animated 404 error page designed using modern tools and visual storytelling...
 
 ## 🎯 Overview
 This project showcases a visually engaging "Page Not Found" experience using a custom-designed animated character and interactive elements.
